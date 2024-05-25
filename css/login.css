@@ -1,0 +1,18 @@
+/* selector universal */
+*{
+    padding: 0;
+    margin: 0;
+}
+/* body */
+body{
+    background-color: #D7D7F9;
+}
+/* logo */
+img{
+    width: 40px;
+}
+/* titulo */
+.titulo{
+    text-align: center;
+    text-transform: uppercase;
+}
