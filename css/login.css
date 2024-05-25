@@ -12,7 +12,7 @@ body{
 main{
     background-color: #ffff;
     width: 500px;
-    height: 500px;
+    height: 600px;
     margin-left: 440px;
     margin-right: 440px;
     margin-top: 100px;
@@ -37,4 +37,8 @@ img{
 }
 .intro{
     text-align: center;
+    padding-top: 50px;
+}
+h3{
+    font-family: "Roboto", sans-serif;
 }
