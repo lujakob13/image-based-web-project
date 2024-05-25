@@ -16,7 +16,7 @@ body{
 main{
     background-color: white;
     width: 1100px;
-    height: 600px;
+    height: 700px;
     margin: 150px;
     margin-top: 400px;
     margin-bottom: 400px;
@@ -42,6 +42,12 @@ h1{
     color: #27277D;
     font-weight: 800;
 }
+.parrafo{
+    padding-top: 30px;
+    font-family: "Lato", sans-serif;
+    font-weight: 500;
+    color: #5B5B5E;
+}
 
 /* logos y titulos */
 img{
@@ -65,6 +71,7 @@ h3{
     margin-left: 80px;
 }
 
+
 /* visa */
 .visa{
     width: 200px;
@@ -86,7 +93,7 @@ h3{
     width: 200px;
     padding-top: 50px;
     margin-left: 500px;
-    margin-top: -190px;
+    margin-top: -200px;
 }
 
 /* consultancy */
@@ -94,7 +101,7 @@ h3{
     width: 200px;
     padding-top: 50px;
     margin-left: 850px;
-    margin-top: -190px;
+    margin-top: -188px;
 }
 
 /* parrafos y titulos para ofertas */
@@ -103,10 +110,9 @@ h3{
 }
 .descripcion{
     text-align: left;
-    padding-top: 1px;
     padding-top: 8px;
-    font-weight: 500;
     color: #5B5B5E;
+    font-family: "Lato", sans-serif;
 }
 
 
