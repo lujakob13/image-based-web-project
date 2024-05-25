@@ -33,12 +33,29 @@ img{
     font-weight: 700;
     font-style: italic;
     font-size: 30px;
-    border: 2px solid red;
 }
+/* introduccion */
 .intro{
     text-align: center;
     padding-top: 50px;
 }
 h3{
     font-family: "Roboto", sans-serif;
+    font-size: 30px;
+}
+/* parrafo */
+.parrafo{
+    margin-left:35px;
+    margin-right: 35px;
+    font-family: "Roboto", sans-serif;
+    color: #8E8E8E;
+    font-size: 12px;
+    text-align: left;
+    padding-top: 10px;
+}
+/* hr */
+hr{
+    margin-bottom: 45px;
+    margin-left: 50px;
+    margin-right: 50px;
 }
