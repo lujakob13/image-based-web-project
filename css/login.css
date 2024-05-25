@@ -78,3 +78,14 @@ input{
 label{
     font-family: "Roboto", sans-serif;
 }
+button{
+    width: 420px;
+    height: 40px;
+    text-transform: uppercase;
+    background-color: #0D82E1;
+    border-radius: 5px;
+    border-color: transparent;
+    cursor: pointer;
+    color: #F1F1F1;
+}
+
