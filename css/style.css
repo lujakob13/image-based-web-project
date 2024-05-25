@@ -8,6 +8,14 @@
 body{
     background-color: #D6D6ED;
 }
-h1{
-    color: red;
+
+/* main */
+main{
+    background-color: white;
+    width: 1000px;
+    height: 500px;
+    margin: 200px;
+    margin-top: 500px;
+    border-radius: 12px;
 }
+
