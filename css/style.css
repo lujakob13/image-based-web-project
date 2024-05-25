@@ -1,13 +1,11 @@
 /* selector universal */
-
 *{
     margin: 0;
     padding: 0;
 }
 
-/* funetes */
+/* fuentes */
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
-
 
 /* body */
 body{
@@ -45,8 +43,6 @@ h1{
     font-weight: 800;
 }
 
-
-
 /* logos y titulos */
 img{
     width: 30px;
@@ -62,10 +58,8 @@ h3{
     color: #27277D;
 }
 
-
-
-/* air */
-.air{
+/* air y tour */
+.air,.tour{
     width: 200px;
     padding-top: 50px;
     margin-left: 80px;
@@ -85,13 +79,6 @@ h3{
     padding-top: 50px;
     margin-left: 850px;
     margin-top: -190px;
-}
-
-/* tour */
-.tour{
-    width: 200px;
-    padding-top: 50px;
-    margin-left: 80px;
 }
 
 /* recruiting */
