@@ -4,6 +4,10 @@
     padding: 0;
 }
 
+/* funetes */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
 /* body */
 body{
     background-color: #D6D6ED;
@@ -12,10 +16,30 @@ body{
 /* main */
 main{
     background-color: white;
-    width: 1000px;
-    height: 500px;
-    margin: 200px;
+    width: 1100px;
+    height: 550px;
+    margin: 150px;
     margin-top: 500px;
     border-radius: 12px;
+}
+
+/* services */
+.services{
+    text-align: center;
+    padding-top: 90px;
+    font-family: "Roboto", sans-serif;
+    color: #5353FD;
+}
+
+/* titulo */
+.titulo{
+    text-align: center;
+    padding-top: 30px;
+    font-family: "Roboto", sans-serif;
+}
+
+h1{
+    color: #27277D;
+    font-weight: 800;
 }
 
