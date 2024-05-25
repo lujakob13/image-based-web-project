@@ -5,7 +5,7 @@
 }
 
 /* funetes */
-@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
 
 
 /* body */
@@ -27,7 +27,7 @@ main{
 .services{
     text-align: center;
     padding-top: 90px;
-    font-family: "Roboto", sans-serif;
+    font-family: "Lato", sans-serif;
     color: #5353FD;
 }
 
@@ -35,13 +35,33 @@ main{
 .titulo{
     text-align: center;
     padding-top: 30px;
-    font-family: "Roboto", sans-serif;
+    font-family: "Lato", sans-serif;
 }
 
 h1{
     color: #27277D;
     font-weight: 800;
 }
+
+p{
+    color: #5B5B5E;
+    font-weight: 500;
+}
+
+/* logos y titulos */
+img{
+    width: 28px;
+    border: 7px  solid transparent;
+    border-radius: 20px;
+    background-color: #5353FD;
+}
+
+h3{
+    font-family: "Lato", sans-serif;
+    color: #27277D;
+}
+
+
 
 
 
