@@ -49,9 +49,10 @@ h1{
 
 /* logos y titulos */
 img{
-    width: 28px;
-    border: 7px  solid transparent;
-    border-radius: 20px;
+    width: 30px;
+    height: 25px;
+    border: 8px  solid transparent;
+    border-radius: 22px;
     background-color: #5353FD;
     margin-bottom: 12px;
 }
