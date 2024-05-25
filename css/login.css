@@ -59,6 +59,7 @@ hr{
     margin-bottom: 45px;
     margin-left: 35px;
     margin-right: 35px;
+    border: 2px solid #F1F1F1;
 }
 /* formulario */
 .formulario{
@@ -69,4 +70,6 @@ hr{
 input{
     width: 420px;
     height: 40px;
+    border-radius: 10px;
 }
+
